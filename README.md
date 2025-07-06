@@ -7,8 +7,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go logo"/>
-  &nbsp;
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="Flask logo"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo"/>
