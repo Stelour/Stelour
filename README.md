@@ -1,8 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=1E3A8A&vCenter=true&center=true&width=700&lines=Stelour" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=55&pause=1000000&color=1E3A8A&vCenter=true&center=true&width=700&lines=Stelour" alt="Typing SVG" />
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img
+    src="img/p3.png"
+    width="30%"
+  />
+  <img
+    src="img/p4.png"
+    width="30%"
+  />
+</div>
 
 <br/>
 
