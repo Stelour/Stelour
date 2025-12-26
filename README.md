@@ -4,16 +4,7 @@
 
 <br/>
 
-<div align="center">
-  <img
-    src="img/p3.png"
-    width="25%"
-  />
-  <img
-    src="img/p4.png"
-    width="25%"
-  />
-</div>
+---
 
 <br/>
 
