@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=,c,cpp,js,java,python,fastapi,django,flask,postgres,bash,debian,arch,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,java,python,bash,debian,arch,postgres,fastapi,docker,git&theme=dark" />
 </div>
 
 <br/>
@@ -26,5 +26,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Stelour&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Stelour&theme=tokyonight&hide_border=true" alt="Streak" height="160"/>
 </div>
