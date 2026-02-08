@@ -9,39 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,bash,linux,debian,arch,docker,git&theme=dark" />
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alembic-2B5B84?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
-  
-  <br/>
-
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/OOP-282C34?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOLID-282C34?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Concurrency-282C34?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Async-282C34?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=,c,cpp,js,java,python,fastapi,django,flask,postgres,bash,debian,arch,docker,git&theme=dark" />
 </div>
 
 <br/>
