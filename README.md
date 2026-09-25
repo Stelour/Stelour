@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=1000000&color=7da0c5&vCenter=true&center=true&width=1000&lines=Stelour"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=48&pause=1000000&color=7da0c5&vCenter=true&center=true&width=1000&lines=Stelour"
     alt="Stelour"
   />
 </div>
